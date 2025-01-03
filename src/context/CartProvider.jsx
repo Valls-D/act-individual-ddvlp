@@ -2,7 +2,7 @@
 import { useReducer } from 'react';
 import PropTypes from 'prop-types';
 import { CartContext } from './CartContext';
-import { cartReducer, initialState } from './cartReducer';
+import { cartReducer, initialState } from './CartReducer';
 
 export function CartProvider({ children }) {
     const [state, dispatch] = useReducer(cartReducer, initialState,initialState => initialState);
