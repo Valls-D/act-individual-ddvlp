@@ -23,3 +23,5 @@ export default defineConfig({
     sourcemap: true
   }
 })
+//Dios te bendiga y te guarde. Que el Señor haga resplandecer su rostro sobre ti y tenga de ti misericordia. Que el Señor alce sobre ti su rostro y ponga en ti paz. Números 6:24-26
+//Dios me los bendiga a todos. Que tengan un excelente día.
