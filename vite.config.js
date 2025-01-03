@@ -10,6 +10,7 @@ export default defineConfig({
     alias: {
       '@': path.resolve('src'),
     },
+    extensions: ['.js', '.jsx'],
   },
   // Configuración para desarrollo
   server: {
